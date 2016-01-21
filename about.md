@@ -1,11 +1,18 @@
 ---
-layout: page
+layout: page 
 title: About
-permalink: /about/
+
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+## Здравствуй!
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Данный блог задуман как место хранения различных *how-to*, идей и прочих дурностей, время от времени посещающих мою голову.
+Надеюсь, что записи помогут кому-либо кроме меня.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+### Обо мне
+
+Меня зовут Александр, возможно, более известен как _Alex Talker_.
+
+Являюсь студентом [НИУ ИТМО](http://www.ifmo.ru/), пользователем [Arch Linux](https://www.archlinux.org/), разработчиком (скорее, самым настоящим **"ты ж программист"**-ом) и просто человеком.
+
+Сопровождающий нескольких пакетов в [AUR](https://aur.archlinux.org/packages/?SeB=m&K=AlexTalker) и чуть-чуть переводчик([Transifex](https://www.transifex.com/user/profile/alextalker7/) & [KDE UserBase](https://userbase.kde.org/Special:Contributions/Alextalker)). Бываю тестером(больше) и контрибьютором(меньше) в различных проектах на [Github](https://github.com/AlexTalker).
