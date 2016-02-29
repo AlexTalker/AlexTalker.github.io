@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wine и PulseAudio: звук пропадает после обновления'
-date: 2016-02-28 22:20:00
+date: 2016-02-28 22:20:00 +0300
 comments: true
 tags: notes wine pulseaudio ru
 ---

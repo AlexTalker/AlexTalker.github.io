@@ -2,7 +2,7 @@
 layout: post
 title: 'Systemd и /etc/fstab: device-timeout'
 description: или история о том, чем бывает плохо удалять пароль root.
-date: 2016-02-28 22:42:00
+date: 2016-02-28 22:42:00 +0300
 comments: true
 tags: notes systemd ru
 ---
